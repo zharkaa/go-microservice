@@ -4,8 +4,10 @@
 
 ### Install go dependencies
 
+```
 `go init mod app`
 `go mod tidy`
+```
 
 ### Build and run
 
