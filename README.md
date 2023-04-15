@@ -1,5 +1,7 @@
 # Go Microservice using Gin
 
+Yet another microservice web app using go
+
 ## How to run the web application
 
 ### Install go dependencies
